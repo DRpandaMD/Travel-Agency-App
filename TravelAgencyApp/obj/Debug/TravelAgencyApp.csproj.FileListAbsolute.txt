@@ -1,0 +1,12 @@
+C:\Users\mczarate\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\bin\Debug\TravelAgencyApp.exe.config
+C:\Users\skrohn\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\bin\Debug\TravelAgencyApp.exe.config
+C:\Users\skrohn\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.csprojResolveAssemblyReference.cache
+C:\Users\skrohn\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\bin\Debug\TravelAgencyApp.exe
+C:\Users\skrohn\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\bin\Debug\TravelAgencyApp.pdb
+C:\Users\skrohn\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.exe
+C:\Users\skrohn\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.pdb
+C:\Users\mczarate\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.exe
+C:\Users\mczarate\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.pdb
+C:\Users\mczarate\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\bin\Debug\TravelAgencyApp.exe
+C:\Users\mczarate\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\bin\Debug\TravelAgencyApp.pdb
+C:\Users\mczarate\Desktop\TravelAgencyApp\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.csprojResolveAssemblyReference.cache
